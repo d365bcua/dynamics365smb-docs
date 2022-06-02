@@ -95,8 +95,7 @@ The better mapping information that you do in the payment reconciliation journal
 > Some fields are hidden until you choose the **Show more** action, typically because they are used rarely. Others must be added through personalization. For more information, see [Personalize Your Workspace](ui-personalization-user.md).
 
 You can create as many bank accounts as you need for your business. For each bank account, you must specify information that makes the bank account uniquely identifiable. This information includes the bank's geographical address, number series for different types of transactions, such as direct debit and credit transfers, the currency that amounts are specified in, and information that is used for importing bank statements. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
-<!--
-The following table explains key fields.
+
 
 |Field|Description|  
 |---------------------------------|---------------------------------------|  
